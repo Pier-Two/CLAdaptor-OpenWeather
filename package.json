@@ -1,0 +1,19 @@
+{
+  "name": "EA-NodeJS-Template",
+  "version": "1.0.0",
+  "author": "",
+  "description": "",
+  "license": "MIT",
+  "scripts": {
+    "test": "./node_modules/.bin/_mocha --timeout 0"
+  },
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "chai": "^4.2.0",
+    "express": "^4.17.0",
+    "mocha": "^6.1.4"
+  }
+}
