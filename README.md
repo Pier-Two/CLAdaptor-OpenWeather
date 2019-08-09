@@ -64,3 +64,8 @@ The following premium API endpoints are also supported
     - Params
         - CityId: The City ID to get data for
         - Days: The number of days to get data for (up to 16 days)
+
+## Testing
+```bash
+API_KEY=<YOUR_API_KEY> npm test
+```
