@@ -8,8 +8,8 @@ const createRequest = (input, callback) => {
 	url = url + endpoint
 
 	// Create request params
-	const cityID = input.data.cityID || "7839562";
-	const numDays = input.data.days || "1"
+	const cityID = input.data.cityID || "7839562"; // Default to Brisbane if no city ID provided
+	const numDays = input.data.days || "1" // Default to 1 day if no number of days provided
 
 	// Build your query object with the given input params, for example:
 	let queryObj = {

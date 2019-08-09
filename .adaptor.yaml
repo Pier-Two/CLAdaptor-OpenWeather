@@ -1,0 +1,14 @@
+name: Open Weather External Adapter
+description: Chainlink External Adaptor for the Open Weather API
+node_identifier: SDL
+platforms:
+  - Docker
+  - AWS Lambda
+  - GCP Functions
+data_sources:
+  - name: OpenWeather
+    url: https://openweathermap.org/
+parameters:
+  - endpoint
+  - cityID
+  - days

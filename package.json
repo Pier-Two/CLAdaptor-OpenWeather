@@ -1,7 +1,16 @@
 {
-  "name": "EA-NodeJS-Template",
+  "name": "openweather-adaptor",
   "version": "1.0.0",
-  "author": "",
+  "main":"index.js",
+  "author": {
+    "name": "Raymond Mogg",
+    "email": "raymond@securedatalinks.com",
+    "url": "https://github.com/raymogg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/securedatalinks/CLAdaptor-OpenWeather.git"
+  },
   "description": "",
   "license": "MIT",
   "scripts": {
