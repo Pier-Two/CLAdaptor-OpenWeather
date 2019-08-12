@@ -1,3 +1,6 @@
 node_modules/
 package-lock.json
 *.zip
+docs/_build
+docs/_static
+docs/_templates
