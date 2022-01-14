@@ -4,12 +4,12 @@
   "main":"index.js",
   "author": {
     "name": "Raymond Mogg",
-    "email": "raymond@securedatalinks.com",
+    "email": "raymond@mycelium.ventures",
     "url": "https://github.com/raymogg"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/securedatalinks/CLAdaptor-OpenWeather.git"
+    "url": "git+https://github.com/mycelium-ethereum/CLAdaptor-OpenWeather.git"
   },
   "description": "",
   "license": "MIT",
